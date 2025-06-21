@@ -1,4 +1,4 @@
-# > Hey_
-I'm *Kegiro*, a Rust beginner
+# Hey!
+I'm *Kegiro*, a Rust beginner!
 
-*₍^. .^₎⟆*
+*(･з･)*
