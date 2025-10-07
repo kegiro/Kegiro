@@ -7,4 +7,4 @@
 - CSS 🌈
 - JavaScript 🔧
 
-*(´O｀)*
+**(´O｀)**
