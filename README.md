@@ -1,4 +1,10 @@
-# Hey!
-I'm *Kegiro*, a Rust beginner!
+# K3GiR0
 
-*(･з･)*
+## Skills
+- Batch ⚙️
+- Python 🐍
+- HTML 🗂
+- CSS 🌈
+- JavaScript 🔧
+
+*(´O｀)*
