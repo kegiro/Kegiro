@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey()
 
-<!--
-**kegiro/kegiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm *3Say*, a new developer that loves building fun programs, resolving issues and adding details that changes everything.
 
-Here are some ideas to get you started:
+### projects:
+- Portfolio Website‎ ________ HTML, CSS, JS
+- Discord Bots _____________ JavaScript
+- Discord Plugins __________ JavaScript
+- Minecraft Plugins ________ Java
+- Hytale Plugins ___________ Java
+- Minecraft Client _________ Java, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I've ranked them in order of difficulty based on my actual skills, from easiest to most difficult.*
+*(´O｀)* 
