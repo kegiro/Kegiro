@@ -11,4 +11,5 @@ I'm *3Say*, a new developer that loves building fun programs, resolving issues a
 - Minecraft Client _________ Java, C#
 
 *I've ranked them in order of difficulty based on my actual skills, from easiest to most difficult.*
+
 *(´O｀)* 
